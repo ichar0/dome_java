@@ -1,64 +1,15 @@
 Request URL:https://www.zhihu.com/api/v3/oauth/sign_in
 Request Method:POST
 Status Code:201 Created
-Remote Address:47.95.51.100:443
-Response Headers
- (17)
-Request Headers
-view source
-accept:application/json, text/plain, */*
-Accept-Encoding:gzip, deflate, br
-Accept-Language:zh-CN,zh;q=0.8
-authorization:oauth c3cef7c66a1843f8b3a9e6a1e3160e20
-Connection:keep-alive
-Content-Length:1229
-content-type:multipart/form-data; boundary=----WebKitFormBoundaryWF8O7brHqNhHEYwR
-Cookie:_zap=149b1cc4-ef1a-45e2-a8a4-edc2db20b678; q_c1=226bd87ba94742968249a4debc4ff837|1516939732000|1516939732000; __guid=74140564.2394222905938151000.1516939732019.76; __utma=155987696.1917429262.1516944564.1516944564.1516944564.1; __utmz=155987696.1516944564.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); r_cap_id="ODVlZjAwNTA4YTQ1NDMwOWExMTVhNzgwN2JkMGEyNzU=|1516956398|a400707796415319824179d90f10200709c1be41"; cap_id="NTE2OTY5ZmMxNjRjNGFlZGI3YTk5Yjc2YmU2YzU2OGI=|1516956398|8a29550728d21fa1927300c1711a9a0d4338fa84"; l_cap_id="MTY0Y2RlNGI0MTFjNDkwMTg5NTI1ODQwODc2MDc2Nzc=|1516956398|80e402399cb48a048247fc3b391b9c2f29ef19e9"; aliyungf_tc=AQAAAG/53WaInQEAfenIGyemxTGtXgE8; d_c0="ACCs8Km-DA2PTtD91Q00-ushJ-H7DiEEUq4=|1516973587"; _xsrf=0b20b073-3e30-456f-b4cb-a05321a3681f; monitor_count=27; capsion_ticket="2|1:0|10:1516974445|14:capsion_ticket|44:ZDJhYmExYTk1MDg5NDBiMmFlYzkwYWQwYWExN2VlYTM=|004347f796f7e6c89e6e06547d0db1938c6902cc3409cbb4532a85149b29164e"
-DNT:1
-Host:www.zhihu.com
-Origin:https://www.zhihu.com
-Referer:https://www.zhihu.com/signup?next=%2F
-User-Agent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
-x-udid:ACCs8Km-DA2PTtD91Q00-ushJ-H7DiEEUq4=
-x-xsrftoken:0b20b073-3e30-456f-b4cb-a05321a3681f
-Request Payload
-------WebKitFormBoundaryWF8O7brHqNhHEYwR
-Content-Disposition: form-data; name="client_id"
 
-c3cef7c66a1843f8b3a9e6a1e3160e20
-------WebKitFormBoundaryWF8O7brHqNhHEYwR
-Content-Disposition: form-data; name="grant_type"
 
-password
-------WebKitFormBoundaryWF8O7brHqNhHEYwR
-Content-Disposition: form-data; name="timestamp"
-
-1516975045669
-------WebKitFormBoundaryWF8O7brHqNhHEYwR
-Content-Disposition: form-data; name="source"
-
-com.zhihu.web
-------WebKitFormBoundaryWF8O7brHqNhHEYwR
-Content-Disposition: form-data; name="signature"
-
-fde63bfa861ba9b85e73325175b400bae2943304
-------WebKitFormBoundaryWF8O7brHqNhHEYwR
 Content-Disposition: form-data; name="username"
 
 +8613031325732
 ------WebKitFormBoundaryWF8O7brHqNhHEYwR
 Content-Disposition: form-data; name="password"
 
-zn123456
-------WebKitFormBoundaryWF8O7brHqNhHEYwR
-Content-Disposition: form-data; name="captcha"
-
-
-------WebKitFormBoundaryWF8O7brHqNhHEYwR
-Content-Disposition: form-data; name="lang"
-
-cn
-------WebKitFormBoundaryWF8O7brHqNhHEYwR
+z
 Content-Disposition: form-data; name="ref_source"
 
 homepage
